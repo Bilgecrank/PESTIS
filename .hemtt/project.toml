@@ -1,0 +1,11 @@
+name = "PESTIS Utils"
+prefix = "PESTIS"
+
+mainprefix = "x"
+
+[files]
+include = []
+exclude = []
+
+[properties]
+author = "Bilgecrank"
